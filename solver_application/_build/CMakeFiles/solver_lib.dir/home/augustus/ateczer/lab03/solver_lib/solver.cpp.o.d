@@ -1,4 +1,4 @@
-CMakeFiles/formatter.dir/solver.cpp.o: \
+CMakeFiles/solver_lib.dir/home/augustus/ateczer/lab03/solver_lib/solver.cpp.o: \
  /home/augustus/ateczer/lab03/solver_lib/solver.cpp \
  /usr/include/stdc-predef.h \
  /home/augustus/ateczer/lab03/solver_lib/solver.h \
